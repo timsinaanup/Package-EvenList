@@ -1,0 +1,7 @@
+README.md
+setup.py
+EvenList/__init__.py
+EvenList.egg-info/PKG-INFO
+EvenList.egg-info/SOURCES.txt
+EvenList.egg-info/dependency_links.txt
+EvenList.egg-info/top_level.txt

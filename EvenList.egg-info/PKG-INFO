@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: EvenList
+Version: 0.1.0
+Summary: Returns a list of even numbers from a given list
+Home-page: UNKNOWN
+Author: Anup Timsina
+Author-email: timsinaanup23@gmail.com
+License: UNKNOWN
+Description: This program takes a list of numbers as input and provides only even number from it.
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
